@@ -1,0 +1,1 @@
+//Juz mam zrobione

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>atnthposition.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>deleteatnthposition.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>listy youtube.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>reverse.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7AAA057D1C9F28DD00989840</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7AAA058B1C9FE2C800989840</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7AAA05961C9FF13400989840</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7AAA05A11CA025B800989840</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
